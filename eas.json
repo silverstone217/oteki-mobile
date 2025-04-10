@@ -1,7 +1,7 @@
 {
-  // "cli": {
-  //   "appVersionSource": "remote"
-  // },
+  "cli": {
+    "appVersionSource": "remote"
+  },
   "build": {
     "preview": {
       "android": {

@@ -27,7 +27,7 @@ const WelcomeSCreen = () => {
       >
         Page introuvable, réessayez plus tard!
       </Text>
-      <StatusBar style="auto" animated />
+      <StatusBar style="dark" animated />
     </View>
   );
 };
